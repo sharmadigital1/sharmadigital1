@@ -1,0 +1,33 @@
+# Sharma Digital  
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)  
+
+## 📌 Description  
+Sharma Digital is a leading digital marketing agency based in Nepal, founded by **Ganesh Sharma**. We specialize in SEO, social media marketing, content creation, business promotion, and online brand growth strategies.  
+
+## 🚀 Features  
+- ✅ Expert Digital Marketing Services  
+- 🚀 SEO & Social Media Optimization  
+- 🎬 YouTube Channel Growth Strategies  
+- 📈 Business Promotion & Advertising  
+- 🎵 Music Distribution & Caller Tune Setup  
+
+## 📷 Screenshots  
+
+### Sharma Digital Branding  
+![Sharma Digital](./images/sharma-digital-banner.jpg)  
+
+### Music & Caller Tune Services  
+![Sharma Digital Music](./images/sharma-digital-music.jpg)  
+
+## 🛠️ Installation  
+### Prerequisites  
+- A basic understanding of digital marketing tools  
+- Access to Google Analytics, Facebook Ads, or YouTube Studio  
+
+### Steps to Get Started  
+```bash
+git clone https://github.com/GaneshSharma-NP/sharma-digital.git  
+cd sharma-digital  
+npm install  
